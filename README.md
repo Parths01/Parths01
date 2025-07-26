@@ -68,7 +68,6 @@ Classic arcade snake game for browsers
 
 **🧑‍🎓 MCA (2025 – Present)**  
 *MIT World Peace University, Pune*  
-ERP ID: 1272250697 | Division: FY-MCA Science-A
 
 **🎓 B.Sc in Computer Science (2022 – 2025)**  
 *Dr. D.Y. Patil ACS College, Pimpri*
