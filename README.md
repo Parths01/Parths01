@@ -1,87 +1,97 @@
-# 👋 Hi, I'm Parth Suryawanshi
+# 👋 Hey there, I'm Parth Suryawanshi
 
-🎓 *MCA Student* at [MIT World Peace University, Pune](https://mitwpu.edu.in)  
-💻 Web Developer | React Enthusiast | Java & DSA Learner  
-🌍 From Pune, India  
-🌐 [Visit My Portfolio](https://parths01.github.io/Portfolio/)
+🎓 MCA Student @ [MIT World Peace University, Pune](https://mitwpu.edu.in)  
+💻 Web Developer | React Explorer | Java & DSA Learner  
+🌍 Pune, India  
+🌐 [Portfolio Website](https://parths01.github.io/Portfolio/)
 
 ---
 
 ## 🚀 About Me
+I’m a passionate developer with a strong Computer Science foundation, currently pursuing my **MCA**.  
+I love transforming ideas into **scalable web apps**, exploring **React & MySQL**, and sharpening my **Java + DSA** problem-solving skills.  
 
-I'm a passionate developer currently pursuing my **Master of Computer Applications** from MIT-WPU. With a solid background in Computer Science and real-world project experience, I focus on building web apps that are meaningful, efficient, and scalable. I love working with **React, MySQL, and Java**, and continuously upskill through hands-on projects.
-
----
-
-## 🧠 Tech Stack
-
-- **Languages**: Java, JavaScript, Python, PHP, HTML, CSS  
-- **Frontend**: React.js, Bootstrap, Tailwind CSS  
-- **Backend**: PHP, MySQL  
-- **Tools & Platforms**: Git, GitHub, VS Code, Arduino, AWS (Basic)  
-- **Other**: DBMS, IoT, REST APIs, DSA
+💡 *Curious mind | Builder at heart | Lifelong learner*
 
 ---
 
-## 💼 Projects
+## 🛠️ Tech Stack
 
-### 🔹 [Veer Sahayata](https://github.com/Parths01/VeerSahayata)
-Support portal for Indian Defence personnel and their families  
-*React + MySQL* | Pension & Loan Tracking | Document Verification | Admin & User Dashboards
+**Languages**  
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
 
-### 🔹 [Oneshot - Disposable Camera](https://github.com/Parths01/disposable-camera)  
-A digital disposable camera simulation with time-locked image access  
-*PHP, MySQL, JavaScript*
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
-### 🔹 [MediSync - Health Dashboard](https://github.com/Parths01/MediSync)  
-Dashboard to manage and visualize healthcare analytics  
-*PHP, JS, MySQL, Excel*
+**Backend & DB**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
 
-### 🔹 [Personal Portfolio](https://parths01.github.io/Portfolio)  
-Showcase of my work, resume, and contact info  
-*HTML, CSS, JS, PHP*
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
-### 🔹 [Snake Game (Web)](https://github.com/Parths01/Snake-Game)  
-Classic arcade snake game for browsers  
-*HTML, CSS, JS*
+---
+
+## 💼 Featured Projects
+
+🔹 **[Veer Sahayata](https://github.com/Parths01/VeerSahayata)** – Portal for Indian Defence personnel  
+🔹 **[Oneshot - Disposable Camera](https://github.com/Parths01/disposable-camera)** – Time-locked camera app  
+🔹 **[MediSync](https://github.com/Parths01/MediSync)** – Healthcare analytics dashboard  
+🔹 **[Portfolio Website](https://parths01.github.io/Portfolio)** – Personal portfolio & resume site  
+🔹 **[Snake Game](https://github.com/Parths01/Snake-Game)** – Classic browser snake game  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** – Avishkar 2023 (Pune Zone)  
-- 🥉 **3rd Place** – Inter-college Hackathon  
-- 🏅 Multiple certifications in web development, electronics, and tech competitions
+- 🥇 1st Place – **Avishkar 2023 (Pune Zone)**  
+- 🥉 3rd Place – **Inter-college Hackathon**  
+- 🏅 Certifications in Web Dev, IoT & Electronics  
 
 ---
 
 ## 📜 Certifications & Workshops
 
-- JPMorgan Chase – **Software Engineering Virtual Experience**
-- HTML, CSS, JS & Bootstrap – *Short-Term Course Completion*
-- Raspberry Pi, PCB Design, Arduino & IoT Workshops
-- Project Competitions: TechXplore, Aavishkar, Savoir-Faire, and more
+- **JPMorgan Chase** – Software Engineering Virtual Experience  
+- **HTML, CSS, JS & Bootstrap** – Short Term Course  
+- IoT Workshops (Arduino, Raspberry Pi, PCB Design)  
+- Competitions: *TechXplore, Aavishkar, Savoir-Faire*  
 
 ---
 
 ## 📚 Education
 
-**🧑‍🎓 MCA (2025 – Present)**  
-*MIT World Peace University, Pune*  
-
-**🎓 B.Sc in Computer Science (2022 – 2025)**  
-*Dr. D.Y. Patil ACS College, Pimpri*
+🎓 **MCA (2025 – Present)** – MIT-WPU, Pune  
+🎓 **B.Sc. Computer Science (2022 – 2025)** – Dr. D.Y. Patil ACS College, Pimpri  
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- 🔗 [GitHub](https://github.com/Parths01)  
-- 🔗 [LinkedIn](https://linkedin.com/in/parths01)  
-- 📧 Email: [parthsuryawanshi001@gmail.com](mailto:parthsuryawanshi001@gmail.com)  
-- 🌐 [Portfolio Website](https://parths01.github.io/Portfolio/)
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parths01&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parths01&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Parths01&theme=tokyonight)  
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Parths01)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/parths01)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthsuryawanshi001@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://parths01.github.io/Portfolio/)  
 
 ---
 
 > ⚡ *“Always building, always learning.”*
-
