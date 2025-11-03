@@ -35,19 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthSuryawanshi&show_icons=true&theme=tokyonight" alt="Parth's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthSuryawanshi&theme=tokyonight" alt="Parth's GitHub streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSuryawanshi&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
-</p>
-
----
-
 ### 🌐 Connect with Me  
 
 <p align="center">
