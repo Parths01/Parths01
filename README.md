@@ -63,14 +63,6 @@ I think I am funny 😄
 - Figma  
 - Linux / Ubuntu  
 
----
-
-### 📊 GitHub Stats  
-
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthSuryawanshi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSuryawanshi&layout=compact&theme=radical)
-
----
 
 ### 🌐 Connect with Me  
 
