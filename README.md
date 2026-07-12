@@ -1,71 +1,49 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Parth Suryawanshi</span></h1>
-<h3 align="center">💻 Software Developer | Tech Enthusiast | MCA Student at MIT World Peace University 🎓</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner/light.svg" />
+    <img src="assets/banner/dark.svg" alt="Parth Suryawanshi premium animated profile banner" width="100%" />
+  </picture>
+</p>
 
----
+<h1 align="center">Parth Suryawanshi</h1>
+<p align="center">
+  Software Developer | Tech Enthusiast | MCA Student at MIT World Peace University
+</p>
 
-### 🌟 About Me  
+## About Me
 
-🎓 I’ve completed my **B.Sc in Computer Science** from **Dr. D. Y. Patil Arts, Commerce & Science College, Pimpri (SPPU University)**.  
-📘 Currently pursuing **MCA at MIT World Peace University**, exploring advanced computer science concepts and real-world applications.  
-💻 Passionate about **software development, web technologies, and IoT-based systems**.  
-🚀 I love building projects that combine creativity, logic, and impactful technology.  
-🎯 My aim is to become a **Full-Stack Developer** and contribute to innovative and open-source projects.  
+- Completed B.Sc in Computer Science from Dr. D. Y. Patil Arts, Commerce and Science College, Pimpri (SPPU University).
+- Pursuing MCA at MIT World Peace University.
+- Interested in software development, web technologies, and IoT systems.
+- Building practical projects with clean UI, strong logic, and real-world impact.
 
----
+## Current Projects
 
-### 💼 Current Projects  
+- ERP System for College: web-based administration and academics management platform.
+- OneShot: disposable-style online camera platform to upload, manage, and share event photos securely.
+- IoT Research Project: Automated Waste Garbage Separation using Arduino and Sensors (published in IJRAR, 2025).
 
-- 🔭 **ERP System for College** – A web-based management system for college administration and academics.  
-- 📸 **OneShot – Disposable Online Camera Platform** – Lets users upload, manage, and share event photos securely.  
-- ⚙️ **IoT Research Project:** *Automated Waste Garbage Separation using Arduino and Sensors* — published in **IJRAR Journal (2025)**.  
+## Learning Focus
 
----
+- Data Science and Machine Learning
+- React.js, Vue.js, and GSAP for dynamic interfaces
+- MySQL and MongoDB for database design
+- Cloud technologies and API integrations
 
-### 🧠 Currently Learning  
+## Tech Stack
 
-- 🌱 Data Science & Machine Learning  
-- ⚛️ React.js, Vue.js, and GSAP for dynamic UIs  
-- 🗄️ Database Management with MySQL & MongoDB  
-- ☁️ Cloud Technologies and API Integrations  
+- Languages: JavaScript, PHP, Python, C, C++, SQL
+- Web: HTML5, CSS3, React.js, Vue.js, GSAP, Node.js
+- Databases: MySQL, MongoDB
+- Tools: Git, GitHub, VS Code, Postman, Figma, Linux
 
----
+## Connect
 
-### 🧰 Tech Stack  
-
-#### 💻 Programming Languages  
-JavaScript | PHP | Python | C / C++ | SQL  
-
-#### 🌐 Web Development  
-HTML5 | CSS3 | React.js | Vue.js | GSAP | Node.js  
-
-#### 🗄️ Databases  
-MySQL | MongoDB  
-
-#### ⚙️ Tools & Platforms  
-Git & GitHub | VS Code | Postman | Figma | Linux / Ubuntu  
-
----
-
-### 📫 Connect With Me  
-
-📧 **Email:** [parthsur001@proton.me](mailto:parthsur001@proton.me)  
-💼 **LinkedIn:** [Parth Suryawanshi](https://www.linkedin.com/in/parth-suryawanshi)  
-🌐 **Portfolio:** [Coming Soon](#)  
-📝 **Blog:** [Coming Soon](#)  
-
----
-
-### ⚡ Fun Facts  
-
-- 💡 I love experimenting with animations and UI design.  
-- 🧠 I believe in learning by doing — the best teacher is *building something new*.  
-- 🎵 Music while coding? Always. It helps me focus and innovate.  
-- 😂 Fun fact: *I think I’m funny (but my compiler disagrees sometimes).*  
-
----
-
-<h3 align="center">✨ “Talk is cheap. Show me the code.” – Linus Torvalds ✨</h3>
+- Email: [parthsur001@proton.me](mailto:parthsur001@proton.me)
+- LinkedIn: [Parth Suryawanshi](https://www.linkedin.com/in/parth-suryawanshi)
+- Portfolio: Coming soon
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Let’s connect and create something amazing together 🚀
+  "Talk is cheap. Show me the code." - Linus Torvalds
 </p>
